@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**manaise/manaise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![matrix](https://raw.githubusercontent.com/manaise/Manaise/main/K1Utxq_green.gif)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+<img src="https://img.shields.io/badge/-Proxmox-0d1117?style=for-the-badge&logo=proxmox&logoColor=00ff41">
+<img src="https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41">
+<img src="https://img.shields.io/badge/-Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=00ff41">
+<img src="https://img.shields.io/badge/-Tor-0d1117?style=for-the-badge&logo=torproject&logoColor=00ff41">
+</div>
+
